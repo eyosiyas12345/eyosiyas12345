@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyosiyas12345&show_icons=true&locale=en&layout=compact" alt="eyosiyas12345" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyosiyas12345&show_icons=true&locale=en" alt="eyosiyas12345" /></p>
+
+<img src="https://www.sololearn.com/certificates/CC-BCHRDLMN">
