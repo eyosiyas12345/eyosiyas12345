@@ -26,6 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyosiyas12345&show_icons=true&locale=en" alt="eyosiyas12345" /></p>
 
-<img src="https://www.sololearn.com/certificates/CC-BCHRDLMN](https://www.sololearn.com/en/certificates/CC-BCHRDLMN">
-
 ![Image](https://github.com/user-attachments/assets/137c8cab-bfb2-4539-ba19-41b247f5a5f9)
