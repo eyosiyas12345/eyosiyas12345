@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyosiyas12345&show_icons=true&locale=en" alt="eyosiyas12345" /></p>
 
 ![Image](https://github.com/user-attachments/assets/137c8cab-bfb2-4539-ba19-41b247f5a5f9)
-![Image](https://github.com/user-attachments/assets/fac79faf-3127-4fb2-a9a3-8f537daff32e)
