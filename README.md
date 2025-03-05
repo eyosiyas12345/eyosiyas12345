@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyosiyas Gezahegn</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">Learning Frontend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyosiyas12345&label=Profile%20views&color=0e75b6&style=flat" alt="eyosiyas12345" /> </p>
 
