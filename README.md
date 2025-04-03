@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently student in **Addis Ababa Science and Technology University**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js** @ GDG-AASTU
 
 - 🤝I'm looking for **internship , paid or unpaid, all offers welcome**
 
