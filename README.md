@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eyosiyas Gezahegn</h1>
 <h3 align="center">Learning Frontend development</h3>
-
+![A developer coding on a laptop, showing a terminal and colorful syntax.] (https://raw.githubusercontent.com/eyosiyas12345/eyosiyas12345/main/assets/coding-animation.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyosiyas12345&label=Profile%20views&color=0e75b6&style=flat" alt="eyosiyas12345" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyosiyas12345" alt="eyosiyas12345" /></a> </p>
