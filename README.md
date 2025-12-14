@@ -2,7 +2,7 @@
 <h3 align="center">Learning Frontend development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyosiyas12345&label=Profile%20views&color=0e75b6&style=flat" alt="eyosiyas12345" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyosiyas12345" alt="eyosiyas12345" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyosiyas12345" alt="eyosiyas12345" ></a> </p>
 
 - 🔭 I’m currently student in **Addis Ababa Science and Technology University**
 
