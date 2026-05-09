@@ -3,7 +3,7 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 <!-- Keep all <a> tags on the same line or right next to each other to prevent vertical stacking -->
-<p align="left">
+<div align="left" display="flex">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" display="inline"/></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" display="inline"/></a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -24,7 +24,7 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
-</p>
+</div>
 
 <h2>✒️ Recent Posts</h2>
 <ul>
