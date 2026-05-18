@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Clonning projects**
 
-- 🌱 I’m currently learning **as intern @ ATLAS COMPUTEC**
+- 🌱 I’m currently working **as intern @ ATLAS COMPUTEC**
 
 - 👨‍💻 All of my projects are available at [https://eyosigames.netlify.app/](https://eyosigames.netlify.app/)
 
