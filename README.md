@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eyosiyas Gezahegn</h1>
 <h3 align="center">A Software developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Clonning projects**
-
 - 🌱 I’m currently working **as intern @ ATLAS COMPUTEC**
 
-- 👨‍💻 All of my projects are available at [https://eyosigames.netlify.app/](https://eyosigames.netlify.app/)
+- 👨‍💻 Let invite you to my game zone, built for fun [https://eyosigames.netlify.app/](https://eyosigames.netlify.app/)
 
 - 📫 How to reach me **eyosiyasgezahegn326@gmail.com**
 
