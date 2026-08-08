@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eyosiyas Gezahegn</h1>
 <h3 align="center">A Software developer from Ethiopia</h3>
 
-- 🌱 I’m currently working **as intern @ ATLAS COMPUTEC**
+- 🌱 I’m currently working **as intern @ ATLAS COMPUTEC PLC**
 
 - 👨‍💻 Let me invite you to my game zone, built for fun [https://eyosigames.netlify.app/](https://eyosigames.netlify.app/)
 
