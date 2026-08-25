@@ -26,12 +26,11 @@
 </p>
 
 ---
-
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abrahamshimels&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamshimels&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrahamshimels&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=abrahamshimels&theme=tokyonight" />
 </p>
 
 ---
@@ -39,5 +38,5 @@
 <h3 align="left">Top Languages:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamshimels&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamshimels&layout=compact&theme=tokyonight" />
 </p>
