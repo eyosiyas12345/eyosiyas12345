@@ -1,36 +1,43 @@
 <h1 align="center">Hi 👋, I'm Eyosiyas Gezahegn</h1>
-<h3 align="center">A Software developer from Ethiopia</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
-- 🌱 I’m currently working **as intern @ ATLAS COMPUTEC PLC**
+---
 
-- 👨‍💻 Let me invite you to my game zone, built for fun [https://eyosigames.netlify.app/](https://eyosigames.netlify.app/)
+- 🌱 I’m currently learning Software Engineering at Addis Ababa Science and Technology University
+- 👨‍💻 Portfolio: https://abraham-shimels.netlify.app/
+- 📫 Email: eyosiyasgezahegn326@gmail.com
 
-- 📫 How to reach me **eyosiyasgezahegn326@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/eyosiyas-gezahegn-6b0bb7304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyosiyas-gezahegn-6b0bb7304" height="30" width="40" /></a>
-</p>
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eyosiyas12345&layout=compact&theme=tokyonight" />
+<a href="https://www.linkedin.com/in/eyosiyas-gezahegn-6b0bb7304/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
 </p>
 
-## 📈 GitHub Stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eyosiyas12345&show_icons=true&theme=tokyonight" />
-</p>   
+<h3 align="left">Languages and Tools:</h3>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=eyosiyas12345&theme=tokyonight" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,postgres,mongodb,git,docker,aws,postman" />
 </p>
 
-## 🏆 GitHub Trophies
+---
+
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eyosiyas12345&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=abrahamshimels&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahamshimels&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="left">Top Languages:</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamshimels&layout=compact&theme=tokyonight" />
 </p>
