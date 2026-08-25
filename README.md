@@ -4,7 +4,7 @@
 ---
 
 - 🌱 I’m currently learning Software Engineering at Addis Ababa Science and Technology University
-- 👨‍💻 Portfolio: https://abraham-shimels.netlify.app/
+- 👨‍💻 Portfolio: 
 - 📫 Email: eyosiyasgezahegn326@gmail.com
 
 ---
