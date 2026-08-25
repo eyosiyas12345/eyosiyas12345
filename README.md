@@ -29,8 +29,21 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrahamshimels&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=abrahamshimels&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=abrahamshimels&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<h3 align="left">GitHub Activity:</h3>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrahamshimels&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 ---
@@ -38,5 +51,12 @@
 <h3 align="left">Top Languages:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamshimels&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrahamshimels&theme=tokyonight"
+    alt="Top Languages"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrahamshimels&theme=tokyonight"
+    alt="Most Used Languages"
+  />
 </p>
