@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyosiyas Gezahegn</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">An Ethiopian Software Developer</h3>
 
 ---
 
