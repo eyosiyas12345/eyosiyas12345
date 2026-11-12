@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=ts,nodejs,react,postgres,mongodb,git,docker,aws,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,ts,nodejs,react,postgres,mongodb,git,docker,aws,postman" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=abrahamshimels&theme=tokyonight"
+    src="https://streak-stats.demolab.com/?user=eyosiyas12345&theme=tokyonight"
     alt="GitHub Streak"
   />
 </p>
@@ -41,7 +41,7 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrahamshimels&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyosiyas12345&theme=tokyonight"
     alt="GitHub Profile Details"
   />
 </p>
@@ -52,11 +52,11 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abrahamshimels&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eyosiyas12345&theme=tokyonight"
     alt="Top Languages"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abrahamshimels&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyosiyas12345&theme=tokyonight"
     alt="Most Used Languages"
   />
 </p>
