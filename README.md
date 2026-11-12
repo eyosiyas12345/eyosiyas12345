@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning Software Engineering at Addis Ababa Science and Technology University
 - 📫 Email: eyosiyasgezahegn326@gmail.com
-- 👨‍💻 Experience: work as intern @ALTA COMPUTEC PLC . Addis Ababa, Mexico.
-- 👨‍💻 Experience: work as a fullstack developer @PEACE FOR WORLD THEOLOGICAL AND MISSIONARY COLLEGE.
+- 👨‍💻 Experience: worked as an intern @ALTA COMPUTEC PLC . Addis Ababa, Mexico.
+- 👨‍💻 Experience: worked as a fullstack developer @PEACE FOR WORLD THEOLOGICAL AND MISSIONARY COLLEGE.
 
 ---
 
