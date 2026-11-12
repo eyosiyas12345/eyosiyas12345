@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,js,ts,nodejs,react,postgres,mysql,git,postman" />
+<img src="https://skillicons.dev/icons?i=flutter,js,ts,nodejs,express,react,postgres,mysql,git,postman" />
 </p>
 
 ---
